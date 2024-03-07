@@ -1,4 +1,6 @@
-# Objective
+# Keypress Sound
+
+## Objective
 
 This was a tiny project to replicate the functionality of keypress sounds in Google Keyboard on Android Devices and an in-built feature in iPhones.
 
